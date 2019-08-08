@@ -4,7 +4,7 @@
 #
 ################################################################################
 
-COG_VERSION = 063df115456a24e464d1e6f284df22a0e65aea8e
+COG_VERSION = ccff34cfd4677332b99f4cefcb9615188f828279
 COG_SITE = $(call github,Igalia,cog,$(COG_VERSION))
 COG_DEPENDENCIES = libglib2 libwpe wpewebkit
 COG_LICENSE = MIT
